@@ -1,0 +1,80 @@
+286FL    290LV A DECAY:T1/2:XUNDL-2    2012OG06                           201502
+286FL c  Compiled (unevaluated) dataset from 2012Og06                           
+286FL2c  Phys Rev Lett 109, 162501 (2012)                                       
+286FL c  Compiled by: B. Singh (McMaster), Feb 8, 2015                          
+286FL c  {+290}Lv from |a decay of {+294}118 which is formed in                 
+286FL2c  {+249}Cf({+48}Ca,3n),E=251.7 MeV; {+249}Cf from                        
+286FL3c  decay of {+249}Bk target; rotating {+249}Bk radioactive target.        
+286FL c  Z=118 element discovered in 2004Og10: Prog Theor Phys (suppl) 154, 406;
+286FL2c  and 2006Og05: Phys Rev C 74, 044602 through correlated |a-decay chain  
+286FL3c  of three successive |a-decaying nuclides:                              
+286FL4c  {+294}118 --> {+290}Lv --> {+286}Fl --> {+282}Cn; the last one decays  
+286FL5c  by SF mode. 12 chains assigned to {+290}Lv were reported in 2006Og05   
+286FL6c  and 2004Og07 (Phys Rev C 69, 054607). Consult XUNDL database for       
+286FL7c  compiled datasets from 2006Og05 and 2004Og07. Results from 2004Og07    
+286FL8c  are also available in the ENSDF database                               
+286FL c  {+249}Bk radioactive target was produced in neutron irradiation of     
+286FL2c  Cm and Am targets in high flux isotope reactor at ORNL. The chemically 
+286FL3c  purified 12.7 mg of {+249}Bk (about half of the total {+249}Bk material
+286FL4c  produced at ORNL) containing 0.51 mg of {+249}Cf with no other         
+286FL5c  detectable impurities was shipped to JINR. Six targets were prepared at
+286FL6c  RIAR facility in Russia, each target with a thickness of 0.33 mg/cm{+2}
+286FL7c  deposited on 0.72 mg/cm{+2} thick Ti foils, and mounted on a disk that 
+286FL8c  was rotated at 1700 rpm perpendicular to the beam direction.           
+286FL c  Facility: U-400 cyclotron with the Dubna gas-filled recoil separator   
+286FL2c  (DGFRS) of the Flerov Laboratory of Nuclear Reactions,                 
+286FL3c  Joint Institute for Nuclear Research in Dubna (JINR)                   
+286FL c  Evaporation residues passing through the DGFRS separator registered by 
+286FL2c  time-of-flight system. Focal plane detector system: two 6x6 cm{+2}     
+286FL3c  Si detectors, each of 16 strips with position sensitivity in the       
+286FL4c  vertical direction. These detectors were surrounded by six similar     
+286FL5c  6x6 cm{+2} Si side detectors without position sensitivity. Behind the  
+286FL6c  focal plane detectors, two veto Si detectors, similar to the side      
+286FL7c  detectors, were mounted for detecting or rejecting signals from        
+286FL8c  high-energy long-range charged particles produced in direct reactions  
+286FL9c  of {+48}Ca with the DGFRS materials.                                   
+286FL c  Measured E|a, half-lives, |a-|a correlations. FWHM for |a particles    
+286FL2c  was 34-73 keV                                                          
+286FL c  Collaboration: JINR and RIAR in Russia; LLNL, ORNL,                    
+286FL2c  University of Tennessee and Vanderbilt university in USA               
+286FL c                                                                         
+286FL c  One event was assigned to the decay of {+290}Lv in 2012Og06; 12        
+286FL2c  events were assigned earlier in 2006Og05 and 2004Og07.                 
+290LV  P  0            0+               8.3 MS                  11000     70    
+290LV cP T$From 2012Og06 from analysis of a total of 11 observed events         
+290LV cP QP$From 2012Wa38. Other: 11002 {I70} from measured E|a=10850 {I70}     
+290LV2cP (2012Og06) if reported |a transition is g.s. to g.s.                   
+286FL  N                        1      AP                                       
+WARNING: Non-numeric DBR=AP
+286FL cN BR$%|a|?100 assumed                                                    
+286FL  L 0            0+                0.12 S   +4-2                           
+286FL2 L %A=50 $ %SF=50 (2012Og06)                                              
+286FL cL T$measured by 2012Og06 from analysis of 20 events out of a total       
+286FL2cL of 25 observed events in various studies (2012Og06,2006Og05,           
+286FL3cL 2004Og07 and 2004Og12 (Phys Rev C 70, 064609))                         
+286FL cL $E|a=10190 {I60} (2012Og06) from decay of {+286}Fl from analysis       
+286FL2cL of 12 events out of a total of 25 observed events one in this          
+286FL3cL study and the rest in previous studies                                 
+286FL  A 10850     70  100                                                      
+286FL cA E$from 2012Og06 from a total of 11 events observed in all              
+286FL2cA the studies; assumed as g.s. to g.s. transition                        
+                                                                                
+
+
+===================================
+ Z: 116. A: 290. DATE RUN 22-Nov-2020 ALPHAD Version 2.0d [21-Nov-2020]
+-----------------------------------
+Q ALPHA     E TOTAL      ALPHA HALF LIFE   RADIUS (1E-13 cm)  RZERO
+11.00 7     11.05 7      9.606E-8 D        9.79 10            1.486  16
+                                                    R0(T+DT): 1.486   0
+                                                    R0(T-DT): 1.486   0
+                                                    R0(Q+DQ): 1.471 -15
+                                                    R0(Q-DQ): 1.501  15
+
+    TOTAL HALF LIFE   ALPHA BRANCH
+    0.008300 S        1.000   
+THIS RADIUS ADJUSTED
+K
+ENERGY LEVEL  ALPHA ENERGY   ABUNDANCE      CALC. HALF LIFE  HINDRANCE FACTOR
+
+0.000         1.085E4 7      1.000          9.606E-8         1.000   

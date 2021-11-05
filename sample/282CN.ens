@@ -1,0 +1,59 @@
+282CN    286FL A DECAY:T1/2:XUNDL-1    2012OG06                           201502
+282CN c  Compiled (unevaluated) dataset from 2012Og06                           
+282CN2c  Phys Rev Lett 109, 162501 (2012)                                       
+282CN c  Compiled by: B. Singh (McMaster), Feb 8, 2015                          
+282CN c  {+286}Fl from {+294}118 -> {+290}Lv -> {+286}Fl |a decay chain;        
+282CN2c  {+294}118 is formed in {+249}Cf({+48}Ca,3n),E=251.7 MeV; {+249}Cf from 
+282CN3c  decay of {+249}Bk target; rotating {+249}Bk radioactive target.        
+282CN c  Z=118 element discovered in 2004Og10: Prog Theor Phys (suppl) 154, 406;
+282CN2c  and 2006Og05: Phys Rev C 74, 044602 through correlated |a-decay chain  
+282CN3c  of three successive |a-decaying nuclides:                              
+282CN4c  {+294}118 --> {+290}Lv --> {+286}Fl --> {+282}Cn; the last one decays  
+282CN5c  by SF mode. Many chains were assigned to {+286}Fl earlier in 2006Og05, 
+282CN6c  2004Og07 (Phys Rev C 69, 054607) and 2004Og12 (Phys Rev C 70, 064609). 
+282CN7c  Results from 2004Og07 and 2004Og12 are also available in the ENSDF     
+282CN8c  database                                                               
+282CN c  {+249}Bk radioactive target was produced in neutron irradiation of     
+282CN2c  Cm and Am targets in high flux isotope reactor at ORNL. The chemically 
+282CN3c  purified 12.7 mg of {+249}Bk (about half of the total {+249}Bk material
+282CN4c  produced at ORNL) containing 0.51 mg of {+249}Cf with no other         
+282CN5c  detectable impurities was shipped to JINR. Six targets were prepared at
+282CN6c  RIAR facility in Russia, each target with a thickness of 0.33 mg/cm{+2}
+282CN7c  deposited on 0.72 mg/cm{+2} thick Ti foils, and mounted on a disk that 
+282CN8c  was rotated at 1700 rpm perpendicular to the beam direction.           
+282CN c  Facility: U-400 cyclotron with the Dubna gas-filled recoil separator   
+282CN2c  (DGFRS) of the Flerov Laboratory of Nuclear Reactions,                 
+282CN3c  Joint Institute for Nuclear Research in Dubna (JINR)                   
+282CN c  Evaporation residues passing through the DGFRS separator registered by 
+282CN2c  time-of-flight system. Focal plane detector system: two 6x6 cm{+2}     
+282CN3c  Si detectors, each of 16 strips with position sensitivity in the       
+282CN4c  vertical direction. These detectors were surrounded by six similar     
+282CN5c  6x6 cm{+2} Si side detectors without position sensitivity. Behind the  
+282CN6c  focal plane detectors, two veto Si detectors, similar to the side      
+282CN7c  detectors, were mounted for detecting or rejecting signals from        
+282CN8c  high-energy long-range charged particles produced in direct reactions  
+282CN9c  of {+48}Ca with the DGFRS materials.                                   
+282CN c  Measured E|a, half-lives, |a-|a correlations. FWHM for |a particles    
+282CN2c  was 34-73 keV                                                          
+282CN c  Collaboration: JINR and RIAR in Russia; LLNL, ORNL,                    
+282CN2c  University of Tennessee and Vanderbilt university in USA               
+282CN c                                                                         
+282CN c  One event was assigned to the decay of {+290}Lv in 2012Og06; 12        
+282CN2c  events were assigned earlier in 2006Og05 and 2004Og07.                 
+286FL  P  0            0+               166 MS                  10370     30    
+286FL cP T$From 2012Og06 from analysis of 20 events out of a total of 25        
+286FL2cP 25 observed events in various studies                                  
+286FL cP QP$From 2012Wa38. Other: 10335 {I60} from measured E|a=10190 {I60}     
+286FL2cP (2012Og06) if reported |a transition is g.s. to g.s.                   
+282CN  N                        0.60   11                                     
+282CN cN BR$%|a=50, %SF=50 (2012Og06)                                           
+282CN  L 0            0+                0.82 MS  +30-18                         
+282CN2 L %SF=100 (2012Og06)                                                     
+282CN cL T$measured by 2012Og06 from analysis of a total of 12 events           
+282CN2cL observed in various studies (2012Og06,2006Og05,                        
+282CN3cL 2004Og07 and 2004Og12 (Phys Rev C 70, 064609))                         
+282CN  A 10190     60  100                                                          
+282CN cA E$from 2012Og06 from analysis of 12 events out of a total of           
+282CN2cA 25 events observed in all the studies; assumed as g.s. to g.s.         
+282CN3cA transition        
+
