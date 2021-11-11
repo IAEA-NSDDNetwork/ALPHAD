@@ -1,5 +1,7 @@
 # ALPHAD
-Calculates alpha HF's and theoretical half-lives. ALPHAD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+Calculates alpha HF's and theoretical half-lives.
+
+ALPHAD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Address any question to Balraj Singh, balraj@mcmaster.ca
 
