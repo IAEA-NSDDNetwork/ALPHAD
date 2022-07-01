@@ -13,7 +13,7 @@ For Linux and Mac platforms, a make file is provided in the **src** directory
 ## Change history
 
 #### 2021-06
-*Version 2.0d
+* Version 2.0d
 
 #### 2019-03
 * Code has been updated for recent official symbols for super-heavy elements Z=112-118. In this package, some additional sample input files (pertaining to super-heavy nuclei) have been added just to test validity of code for newly added systems.
