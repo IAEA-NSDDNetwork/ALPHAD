@@ -1,5 +1,5 @@
 # ALPHAD
-Calculates alpha HF's and theoretical half-lives.
+LEGACY CODE. Calculates alpha HF's and theoretical half-lives.
 
 ALPHAD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
